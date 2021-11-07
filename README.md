@@ -1,6 +1,6 @@
-# ITI-Java
-Java Projects
-Java Final Project:
+# Web-Service-by-Java
+Java Project
+
 
 Task: 
 • Build all java needed classes (POJO , DAO, web service and a tester client for the web service)
@@ -21,14 +21,12 @@ Task:
 Team: 
 Ahmed abouabah owais
 https://www.linkedin.com/in/ahmed-abuaba/
+
 Mohamed kamal ali
 
 Suhaib ali hassan
 https://www.linkedin.com/in/suhaib-abozaid-b18bb810b/.
 
-Deliverables: 
-• Each team must share with us a git hub link for a maven EE application.
-• Each team must be ready to present his work on 6th of July
 
 Wuzzuf jobs in Egypt data set at Kaggle
 https://www.kaggle.com/omarhanyy/wuzzuf-jobs
